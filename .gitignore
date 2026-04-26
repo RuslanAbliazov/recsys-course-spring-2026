@@ -33,3 +33,8 @@ botify/data/*.json
 *.synctex.gz
 *.nav
 *.snm
+
+# виртуальные окружения
+*env
+data/
+train_logs/
